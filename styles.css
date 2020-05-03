@@ -1,0 +1,28 @@
+* {
+    font-family: 'Arbutus Slab', serif;
+}
+
+nav {
+    font-size: 35px;
+}
+
+.abstract {
+    font-size: 18px;
+}
+
+.byline,
+.published_date {
+    font-size: 14px;
+}
+
+.url {
+    margin: 4px auto -18px auto;
+}
+
+a:hover {
+    text-shadow: 1px 1px black;
+}
+
+.divider {
+    margin: 5px auto 5px auto;
+}
